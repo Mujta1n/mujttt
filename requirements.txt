@@ -1,1 +1,4 @@
-telebot
+pyTelegramBotAPI
+pycryptodome
+requests
+python-telegram-bot
